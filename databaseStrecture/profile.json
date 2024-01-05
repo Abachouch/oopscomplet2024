@@ -1,0 +1,13 @@
+{
+    "_id": "db274a08-f1c9-48f4-b4a4-eef84ec3c9cc",
+    "fullName": "anna doe",
+    "location": "Jakarta",
+    "age": 20,
+    "gender": "female",
+    "avatarURL": "https://example.com/avatar.jpg",
+    "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg",
+        "https://example.com/image3.jpg"
+    ]
+}

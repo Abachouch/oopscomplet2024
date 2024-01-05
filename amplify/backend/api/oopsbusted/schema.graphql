@@ -1,0 +1,83 @@
+input AMPLIFY { 
+    globalAuthRule: AuthRule = { allow: public } 
+}
+
+type Scraper @model {
+    autoId: ID! @primaryKey
+    uuid: ID! 
+    name: String!
+    email: String!
+    gender: String!
+    age: Int!
+    height: Int
+    phone: String
+    location: String!
+    profiles: [Profile] @hasMany(indexName: "byScraper", fields: ["uuid"])
+}
+
+type Profile @model {
+    autoId: ID! @primaryKey
+    uuid: ID!
+    name: String
+    location: String
+    age: Int
+    gender: String
+    avatarUrl: String
+    screenShots: [String]
+    lastActive: AWSDateTime
+    sourceApp: String!
+    isBusted: Boolean 
+    dateBusted: AWSDateTime
+    data: String
+    scraperUUID: ID! @index(name: "byScraper", sortKeyFields: ["uuid"])
+    scraper: Scraper @belongsTo(fields: ["scraperUUID"])
+}
+
+type SearchQuery @model {
+    autoId: ID! @primaryKey
+    uuid: ID! 
+    name: String!
+    age: Int!
+    location: String!
+    gender: String!
+    images: [String]
+    payedSites: [String]
+    resultTinder: Profile @hasOne
+    resultBumble: Profile @hasOne
+    resultHinge: Profile @hasOne
+    dateSearch: AWSDateTime!
+    clientSessionID: String!
+}
+
+type Order @model {
+    autoId: ID! @primaryKey
+    uuid: ID! 
+    clientUUID: ID! @index(name: "byClient", sortKeyFields: ["uuid"])
+    client: Client @belongsTo(fields: ["clientUUID"])
+    transaction: Transaction @hasOne
+    query: String!
+    name: String!
+    age: Int!
+    location: String!
+}
+
+type Client @model {
+    autoId: ID! @primaryKey
+    uuid: ID! 
+    name: String!
+    email: String!
+    location: String!
+    orders: [Order] @hasMany
+    transactions: [Transaction] @hasMany
+}
+
+type Transaction @model {
+    autoId: ID! @primaryKey
+    uuid: ID!
+    clientUUID: ID! @index(name: "byClient", sortKeyFields: ["uuid"])
+    client: Client @belongsTo(fields: ["clientUUID"])
+    orderUUID: ID! @index(name: "byOrder", sortKeyFields: ["uuid"])
+    order: Order @belongsTo(fields: ["orderUUID"])
+    site: String!
+    status: String!
+}

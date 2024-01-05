@@ -1,0 +1,172 @@
+[
+    {
+      "name": "Mika Bella",
+      "age": "30",
+      "location": "Los Angeles",
+      "avatar": "/profiles/person_1.png" ,
+      "hobbies" : ["surfing" , "reading"] , 
+      "website" : "tinder"
+    },
+    {
+      "name": "Alex Johnson",
+      "age": "25",
+      "location": "New York City",
+      "avatar": "/profiles/person_2.png"
+    },
+    {
+      "name": "Emily Davis",
+      "age": "28",
+      "location": "Chicago",
+      "avatar": "/profiles/person_3.png"
+    },
+    {
+      "name": "Ryan Smith",
+      "age": "32",
+      "location": "San Francisco",
+      "avatar": "/profiles/person_4.png"
+    },
+    {
+      "name": "Sophie Miller",
+      "age": "27",
+      "location": "Miami",
+      "avatar": "/profiles/person_5.png"
+    },
+    {
+      "name": "Liam Anderson",
+      "age": "35",
+      "location": "Houston",
+      "avatar": "/profiles/person_6.png"
+    },
+    {
+      "name": "Isabella White",
+      "age": "29",
+      "location": "Seattle",
+      "avatar": "/profiles/person_.png"
+    },
+    {
+      "name": "Aiden Taylor",
+      "age": "31",
+      "location": "Boston",
+      "avatar": "/profiles/person_8.png"
+    },
+    {
+      "name": "Zoya Martinez",
+      "age": "26",
+      "location": "Denver",
+      "avatar": "/profiles/person_9.png"
+    },
+    {
+      "name": "Ethan Garcia",
+      "age": "28",
+      "location": "Austin",
+      "avatar": "/profiles/person_10.png"
+    },
+    {
+      "name": "Olivia Hernandez",
+      "age": "33",
+      "location": "Portland",
+      "avatar": "/profiles/person_11.png"
+    },
+    {
+      "name": "Mason Lee",
+      "age": "29",
+      "location": "Phoenix",
+      "avatar": "/profiles/person_12.png"
+    },
+    {
+      "name": "Ava Turner",
+      "age": "26",
+      "location": "Dallas",
+      "avatar": "/profiles/person_13.png"
+    },
+    {
+      "name": "Mika Bella",
+      "age": "30",
+      "location": "Los Angeles",
+      "avatar": "/profiles/person_14.png"
+    },
+    {
+      "name": "Mikel Bellar",
+      "age": "30",
+      "location": "Los Angeles",
+      "avatar": "/profiles/person_15.png"
+    },
+    {
+      "name": "Alex Turner",
+      "age": "25",
+      "location": "San Francisco",
+      "avatar": "/profiles/person_16.png"
+    },
+    {
+      "name": "Emma Watson",
+      "age": "28",
+      "location": "San Diego",
+      "avatar": "/profiles/person_17.png"
+    },
+    {
+      "name": "Chris Evans",
+      "age": "35",
+      "location": "Sacramento",
+      "avatar": "/profiles/person_19.png"
+    },
+    {
+      "name": "Olivia Smith",
+      "age": "32",
+      "location": "Fresno",
+      "avatar": "/profiles/person_20.png"
+    },
+    {
+      "name": "Alex Turner",
+      "age": "25",
+      "location": "San Francisco",
+      "avatar": "/profiles/person_21.png"
+    },
+    {
+      "name": "Emma Watson",
+      "age": "28",
+      "location": "San Diego",
+      "avatar": "/profiles/person_22.png"
+    },
+    {
+      "name": "Chris Evans",
+      "age": "35",
+      "location": "Sacramento",
+      "avatar": "/profiles/person_23.png"
+    },
+    {
+      "name": "Olivia Smith",
+      "age": "32",
+      "location": "Fresno",
+      "avatar": "/profiles/person_24.png"
+    },
+    {
+      "name": "Ryan Johnson",
+      "age": "19",
+      "location": "Oakland",
+      "avatar": "/profiles/person_25.png"
+    },
+    {
+      "name": "Sophia Miller",
+      "age": "22",
+      "location": "Long Beach",
+      "avatar": "/profiles/person_26.png"
+    },
+    {
+      "name": "Jackson Lee",
+      "age": "21",
+      "location": "Anaheim",
+      "avatar": "/profiles/person_27.png"
+    },
+    {
+      "name": "Isabella White",
+      "age": "24",
+      "location": "Santa Ana",
+      "avatar": "/profiles/person_28.png"
+    },
+    {
+      "name": "Cameron Diaz",
+      "age": "20",
+      "location": "Irvine",
+      "avatar": "/profiles/person_29.png"
+    }
+  ]

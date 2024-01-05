@@ -1,0 +1,523 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "age": 28,
+    "gender": "male",
+    "location": "New York",
+    "avatar": "/profiles/01.jpg",
+    "hobbies": [
+      "coding",
+      "gaming"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 2,
+    "name": "Mika Bella",
+    "age": 30,
+    "gender": "female",
+    "location": "Los Angeles",
+    "avatar": "/profiles/02.jpg",
+    "hobbies": [
+      "surfing",
+      "reading"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 3,
+    "name": "Jordan Smith",
+    "age": 32,
+    "gender": "male",
+    "location": "San Francisco",
+    "avatar": "/profiles/03.jpg",
+    "hobbies": [
+      "hiking",
+      "painting"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Clark",
+    "age": 29,
+    "gender": "female",
+    "location": "Miami",
+    "avatar": "/profiles/04.jpg",
+    "hobbies": [
+      "cooking",
+      "traveling"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 5,
+    "name": "Ryan Miller",
+    "age": 26,
+    "gender": "male",
+    "location": "Chicago",
+    "avatar": "/profiles/05.jpg",
+    "hobbies": [
+      "photography",
+      "running"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Clark",
+    "age": 29,
+    "gender": "female",
+    "location": "Miami",
+    "avatar": "/profiles/06.jpg",
+    "hobbies": [
+      "cooking",
+      "traveling"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 7,
+    "name": "Ethan Davis",
+    "age": 31,
+    "gender": "male",
+    "location": "Seattle",
+    "avatar": "/profiles/07.jpg",
+    "hobbies": [
+      "music",
+      "dancing"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 8,
+    "name": "Aria Martinez",
+    "age": 27,
+    "gender": "female",
+    "location": "Austin",
+    "avatar": "/profiles/08.jpg",
+    "hobbies": [
+      "yoga",
+      "painting"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 9,
+    "name": "Cameron White",
+    "age": 30,
+    "gender": "male",
+    "location": "Denver",
+    "avatar": "/profiles/09.jpg",
+    "hobbies": [
+      "hiking",
+      "coding"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 10,
+    "name": "Lily Taylor",
+    "age": 28,
+    "gender": "female",
+    "location": "Portland",
+    "avatar": "/profiles/10.jpg",
+    "hobbies": [
+      "reading",
+      "photography"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 11,
+    "name": "Logan Adams",
+    "age": 29,
+    "gender": "male",
+    "location": "San Diego",
+    "avatar": "/profiles/11.jpg",
+    "hobbies": [
+      "surfing",
+      "gaming"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 12,
+    "name": "Ella Turner",
+    "age": 26,
+    "gender": "female",
+    "location": "Dallas",
+    "avatar": "/profiles/12.jpg",
+    "hobbies": [
+      "traveling",
+      "cooking"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 13,
+    "name": "Mason Hall",
+    "age": 33,
+    "gender": "male",
+    "location": "Phoenix",
+    "avatar": "/profiles/13.jpg",
+    "hobbies": [
+      "rock climbing",
+      "music"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 14,
+    "name": "Harper Lewis",
+    "age": 28,
+    "gender": "female",
+    "location": "Atlanta",
+    "avatar": "/profiles/14.jpg",
+    "hobbies": [
+      "biking",
+      "reading"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 15,
+    "name": "Oliver Bennett",
+    "age": 31,
+    "gender": "male",
+    "location": "Houston",
+    "avatar": "/profiles/15.jpg",
+    "hobbies": [
+      "photography",
+      "gaming"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 16,
+    "name": "Avery Scott",
+    "age": 29,
+    "gender": "female",
+    "location": "Philadelphia",
+    "avatar": "/profiles/16.jpg",
+    "hobbies": [
+      "yoga",
+      "traveling"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 17,
+    "name": "Charlie Baker",
+    "age": 27,
+    "gender": "male",
+    "location": "Detroit",
+    "avatar": "/profiles/17.jpg",
+    "hobbies": [
+      "cooking",
+      "coding"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 18,
+    "name": "Zoe Walker",
+    "age": 30,
+    "gender": "female",
+    "location": "Minneapolis",
+    "avatar": "/profiles/18.jpg",
+    "hobbies": [
+      "hiking",
+      "music"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 19,
+    "name": "Sawyer Turner",
+    "age": 32,
+    "gender": "male",
+    "location": "Nashville",
+    "avatar": "/profiles/19.jpg",
+    "hobbies": [
+      "surfing",
+      "reading"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 20,
+    "name": "Quinn Adams",
+    "age": 29,
+    "gender": "female",
+    "location": "Charlotte",
+    "avatar": "/profiles/20.jpg",
+    "hobbies": [
+      "painting",
+      "coding"
+    ],
+    "website": "tinder"
+  },
+  {
+    "id": 21,
+    "name": "Riley Campbell",
+    "age": 27,
+    "gender": "male",
+    "location": "Orlando",
+    "avatar": "/profiles/21.jpg",
+    "hobbies": [
+      "gaming",
+      "traveling"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 22,
+    "name": "Harley Morgan",
+    "age": 30,
+    "gender": "female",
+    "location": "Denver",
+    "avatar": "/profiles/22.jpg",
+    "hobbies": [
+      "rock climbing",
+      "cooking"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 23,
+    "name": "Dylan Foster",
+    "age": 28,
+    "gender": "male",
+    "location": "Austin",
+    "avatar": "/profiles/23.jpg",
+    "hobbies": [
+      "music",
+      "hiking"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 24,
+    "name": "Grace Carter",
+    "age": 31,
+    "gender": "female",
+    "location": "Seattle",
+    "avatar": "/profiles/24.jpg",
+    "hobbies": [
+      "yoga",
+      "traveling"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 25,
+    "name": "Liam Anderson",
+    "age": 32,
+    "gender": "male",
+    "location": "Denver",
+    "avatar": "/profiles/25.jpg",
+    "hobbies": [
+      "coding",
+      "gaming"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 26,
+    "name": "Ava Parker",
+    "age": 29,
+    "gender": "female",
+    "location": "Los Angeles",
+    "avatar": "/profiles/26.jpg",
+    "hobbies": [
+      "coding",
+      "cooking"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 27,
+    "name": "Noah Foster",
+    "age": 29,
+    "gender": "male",
+    "location": "Phoenix",
+    "avatar": "/profiles/27.jpg",
+    "hobbies": [
+      "rock climbing",
+      "reading"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 28,
+    "name": "Sophie Adams",
+    "age": 27,
+    "gender": "female",
+    "location": "New York",
+    "avatar": "/profiles/28.jpg",
+    "hobbies": [
+      "gaming",
+      "photography"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 29,
+    "name": "Mason Cooper",
+    "age": 27,
+    "gender": "male",
+    "location": "Austin",
+    "avatar": "/profiles/29.jpg",
+    "hobbies": [
+      "photography",
+      "cooking"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 30,
+    "name": "Lily Turner",
+    "age": 30,
+    "gender": "female",
+    "location": "Chicago",
+    "avatar": "/profiles/30.jpg",
+    "hobbies": [
+      "music",
+      "hiking"
+    ],
+    "website": "bumble"
+  },
+  {
+    "id": 31,
+    "name": "Elijah Turner",
+    "age": 30,
+    "gender": "male",
+    "location": "Seattle",
+    "avatar": "/profiles/31.jpg",
+    "hobbies": [
+      "music",
+      "traveling"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 32,
+    "name": "Emma Taylor",
+    "age": 28,
+    "gender": "female",
+    "location": "San Francisco",
+    "avatar": "/profiles/32.jpg",
+    "hobbies": [
+      "yoga",
+      "reading"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 33,
+    "name": "Logan White",
+    "age": 28,
+    "gender": "male",
+    "location": "Chicago",
+    "avatar": "/profiles/33.jpg",
+    "hobbies": [
+      "biking",
+      "gaming",
+      "reading"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 34,
+    "name": "Chloe Davis",
+    "age": 31,
+    "gender": "female",
+    "location": "Seattle",
+    "avatar": "/profiles/34.jpg",
+    "hobbies": [
+      "painting",
+      "traveling"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 35,
+    "name": "Ella Turner",
+    "age": 29,
+    "gender": "female",
+    "location": "Los Angeles",
+    "avatar": "/profiles/36.jpg",
+    "hobbies": [
+      "coding",
+      "cooking"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 36,
+    "name": "Sophie Adams",
+    "age": 27,
+    "gender": "female",
+    "location": "New York",
+    "avatar": "/profiles/38.jpg",
+    "hobbies": [
+      "gaming",
+      "photography"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 37,
+    "name": "Oliver Bennett",
+    "age": 32,
+    "gender": "male",
+    "location": "Denver",
+    "avatar": "/profiles/35.jpg",
+    "hobbies": [
+      "coding",
+      "gaming"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 38,
+    "name": "Noah Foster",
+    "age": 29,
+    "gender": "male",
+    "location": "Phoenix",
+    "avatar": "/profiles/39.jpg",
+    "hobbies": [
+      "rock climbing",
+      "reading"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 39,
+    "name": "Mason Cooper",
+    "age": 27,
+    "gender": "male",
+    "location": "Austin",
+    "avatar": "/profiles/37.jpg",
+    "hobbies": [
+      "photography",
+      "cooking"
+    ],
+    "website": "hinge"
+  },
+  {
+    "id": 40,
+    "name": "Logan White",
+    "age": 28,
+    "gender": "female",
+    "location": "Chicago",
+    "avatar": "/profiles/40.jpg",
+    "hobbies": [
+      "biking",
+      "gaming"
+    ],
+    "website": "hinge"
+  }
+]
